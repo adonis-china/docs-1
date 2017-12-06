@@ -30,7 +30,7 @@ AdonisJs是一个由多个Service Providers组成的模块化框架。Service Pr
 从理论上讲，它们就像任何其他npm模块一样，通过一些代码可以与AdonisJs应用程序无缝衔接。例如： link:https://github.com/adonisjs/adonis-bodyparser[BodyParser] 用来解析HTTP请求体 或者 SQL ORM link:https://github.com/adonisjs/adonis-lucid[Lucid] .
 
 == FAQ's
-下面是常见问题列表，如果您认为列表中缺少常见问题。请创建一个issue link:https://github.com/adonisjs/docs[点击这里]
+下面是常见问题列表，如果您认为列表中缺少常见问题。请 link:https://github.com/adonisjs/docs[点击这里] 创建一个issue
 
 [ol-spaced]
 1. *AdonisJs与Express或Koa有什么不同？*
